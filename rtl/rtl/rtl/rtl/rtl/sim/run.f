@@ -1,0 +1,9 @@
+../rtl/rv32i_core.v
+../rtl/if_stage.v
+../rtl/id_stage.v
+../rtl/ex_stage.v
+../rtl/mem_stage.v
+../rtl/wb_stage.v
+../rtl/hazard_unit.v
+../rtl/forwarding_unit.v
+../tb/tb_rv32i.v
